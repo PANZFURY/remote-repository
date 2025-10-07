@@ -1,1 +1,3 @@
-public class Controller {}
+public class Controller {
+  private String realization;
+}
