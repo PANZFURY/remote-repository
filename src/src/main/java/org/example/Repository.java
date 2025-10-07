@@ -1,1 +1,3 @@
-public class Repository {}
+public class Repository {
+  private String realization;
+}
